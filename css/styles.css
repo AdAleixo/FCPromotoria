@@ -1,4 +1,8 @@
+nav{
+  margin-bottom: 15px;
+}
 body {
+
   font-family: "Montserrat-Black";
 }
 
@@ -125,12 +129,38 @@ hr {
   font-size: 1.3rem;
   line-height: 1.3;
 }
-.img-divida{
 
+.img-divida {
   border-radius: 20%;
   opacity: 0.8;
   height: 300px;
   padding: 34px 0 34px 0;
   width: 300px;
+}
 
+/* Seção contact ME */
+
+.contact-me{
+  margin: 40px auto 80px auto;
+  padding: 40px 0 40px 0;
+}
+.h1-contactme {
+  color: #CD853F;
+  text-align: center;
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.row-contact{
+
+  margin-bottom: 30px;
+}
+.icon-contact{
+
+  display: inline-block;
+  color: #CD853F;
+}
+.icon-contact:hover {
+  color: #FFD700;
 }
