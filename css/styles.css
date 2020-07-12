@@ -1,13 +1,14 @@
-nav{
+nav {
   margin-bottom: 15px;
 }
-body {
 
+body {
   font-family: "Montserrat-Black";
 }
 
 .title {
-  background-color: #DAA520;
+  background-color: white;
+  font-size: 3rem;
 }
 
 /* Navigation Bar */
@@ -139,11 +140,11 @@ hr {
 }
 
 /* Seção contact ME */
-
-.contact-me{
+.contact-me {
   margin: 40px auto 80px auto;
   padding: 40px 0 40px 0;
 }
+
 .h1-contactme {
   color: #CD853F;
   text-align: center;
@@ -152,15 +153,15 @@ hr {
   line-height: 1.5;
 }
 
-.row-contact{
-
+.row-contact {
   margin-bottom: 30px;
 }
-.icon-contact{
 
+.icon-contact {
   display: inline-block;
   color: #CD853F;
 }
+
 .icon-contact:hover {
   color: #FFD700;
 }
